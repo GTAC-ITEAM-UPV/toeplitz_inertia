@@ -1,6 +1,5 @@
 # TOEPLITZ INERTIA
 
-Software for computing the inertia of a Hermitian Toeplitz-block matrix.
 
 ![GitHub License](https://img.shields.io/github/license/GTAC-ITEAM-UPV/toeplitz_intertia)
 ![GitHub language count](https://img.shields.io/github/languages/count/GTAC-ITEAM-UPV/toeplitz_intertia)
@@ -15,6 +14,7 @@ Software for computing the inertia of a Hermitian Toeplitz-block matrix.
 ![GitHub Repo stars](https://img.shields.io/github/stars/GTAC-ITEAM-UPV/toeplitz_intertia)
 
 
+### Software for computing the inertia of a Hermitian Toeplitz-block matrix.
 
 The code in this zip file is based on algorithm 2.3 in the paper 
 by M. Ng and W. Trench, [“Numerical solution of the eigenvalue problem for hermitian toeplitz matrices”](https://www.researchgate.net/publication/2653424_Numerical_Solution_of_the_Eigenvalue_Problem_for_Hermitian_Toeplitz_Matrices), 
