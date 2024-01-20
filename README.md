@@ -17,7 +17,7 @@
 ### Software for computing the inertia of a Hermitian Toeplitz-block matrix.
 
 The code in this zip file is based on algorithm 2.3 in the paper 
-by M. Ng and W. Trench, [“Numerical solution of the eigenvalue problem for hermitian toeplitz matrices”](https://doi.org/10.1137/0610010), 
+by M. Ng and W. Trench, [“Numerical solution of the eigenvalue problem for Hermitian Toeplitz matrices”](https://doi.org/10.1137/0610010), 
 SIAM Journal on Matrix Analysis and Applications, vol. 10, 08 1997
 
 
