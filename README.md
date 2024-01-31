@@ -1,17 +1,17 @@
 # TOEPLITZ INERTIA
 
 
-![GitHub License](https://img.shields.io/github/license/GTAC-ITEAM-UPV/toeplitz_intertia)
-![GitHub language count](https://img.shields.io/github/languages/count/GTAC-ITEAM-UPV/toeplitz_intertia)
-![GitHub top language](https://img.shields.io/github/languages/top/GTAC-ITEAM-UPV/toeplitz_intertia)
+![GitHub License](https://img.shields.io/github/license/GTAC-ITEAM-UPV/toeplitz_inertia)
+![GitHub language count](https://img.shields.io/github/languages/count/GTAC-ITEAM-UPV/toeplitz_inertia)
+![GitHub top language](https://img.shields.io/github/languages/top/GTAC-ITEAM-UPV/toeplitz_inertia)
 
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/GTAC-ITEAM-UPV/toeplitz_intertia)
-![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GTAC-ITEAM-UPV/toeplitz_intertia)
-![GitHub issues](https://img.shields.io/github/issues/GTAC-ITEAM-UPV/toeplitz_intertia)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/GTAC-ITEAM-UPV/toeplitz_inertia)
+![GitHub pull requests](https://img.shields.io/github/issues-pr-raw/GTAC-ITEAM-UPV/toeplitz_inertia)
+![GitHub issues](https://img.shields.io/github/issues/GTAC-ITEAM-UPV/toeplitz_inertia)
 
-![GitHub watchers](https://img.shields.io/github/watchers/GTAC-ITEAM-UPV/toeplitz_intertia)
-![GitHub forks](https://img.shields.io/github/forks/GTAC-ITEAM-UPV/toeplitz_intertia)
-![GitHub Repo stars](https://img.shields.io/github/stars/GTAC-ITEAM-UPV/toeplitz_intertia)
+![GitHub watchers](https://img.shields.io/github/watchers/GTAC-ITEAM-UPV/toeplitz_inertia)
+![GitHub forks](https://img.shields.io/github/forks/GTAC-ITEAM-UPV/toeplitz_inertia)
+![GitHub Repo stars](https://img.shields.io/github/stars/GTAC-ITEAM-UPV/toeplitz_inertia)
 
 
 ### Software for computing the inertia of a Hermitian Toeplitz-block matrix.
